@@ -1,0 +1,23 @@
+2 major components in backend - programing language,database -MySQL,MongoDB,
+
+# ORM,ODM -database framework
+
+index - DB connects
+
+App - config,cookie
+
+constants -enums,DB-name
+
+DB
+
+MODELS  - SCHEMA OF DB
+
+CONTROLLERS  - FUNCTIONALITY (FUNCTIONS OR METHODS)
+
+ROUTES - ROUTING TO PARTICULAR
+
+MIDDLEWARES
+
+UTILS -UTILITIES
+
+MORE(DEPENDS)
